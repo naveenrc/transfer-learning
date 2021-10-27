@@ -9,7 +9,7 @@ cligj==0.4.0
 cloudpickle==0.4.0
 colorcet==0.9.1
 cycler==0.10.0
-dask==0.15.4
+dask==2021.10.0
 -e git+https://github.com/bokeh/datashader.git@d7311e525144292979aa311af03cb263a030a607#egg=datashader
 datashape==0.5.2
 decorator==4.1.2
